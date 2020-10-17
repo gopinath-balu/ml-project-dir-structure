@@ -7,8 +7,8 @@
 │   └── gcloud	
 ├── data	-- all kinds of data 
 │   ├── cache	-- intermediate data like pkl version of processed dataset
-│   ├── parameters	-- nn weights or any other parameters
-│   ├── processed	-- preprocessed data in form suitable for feeding into the models
+│   ├── parameters  -- nn weights or any other parameters
+│   ├── processed -- preprocessed data in form suitable for feeding into the models
 │   └── raw	-- raw datasets, not overwritten by any code
 ├── docs	-- documentation for end user
 ├── libs	-- external modules and packages
