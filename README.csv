@@ -26,6 +26,9 @@
 ├── src	
 │   ├── model	
 │   └── scripts	-- scripts mostly bash, sometime python too
+├── images
+|   ├── plots
+|   └── figuers
 ├── tex	-- in case this work is for publication
-│   └── images	-- images other than charts, like arch diagrams
+│   
 └── TODO	
